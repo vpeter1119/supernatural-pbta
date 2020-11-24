@@ -22,37 +22,6 @@ Epic (11-12) is a level where something extraordinary is usually involved.
 
 Only certain supernatural creatures or exceptionally (and supernaturally) gifted humans can have an attribute score of 13 or higher.
 
-### Methods to Determine Attributes
-
-#### Point-buy Method
-
-When creating a character, players use the point-buy method by distributing 20 points among the 4 attributes. No attribute can be lower than 1 or higher than 10.
-
-#### Standard Array
-
-Alternatively, players can assign an array of 7, 5, 5 and 3 to the four attributes.
-
-#### Roll For It!
-
-Lastly, if the MC and players agree to use an old-school method, they can roll for the four attributes, but beware, this can result in unusually high or low average of scores compared to the A and B methods.
-
-When using the “Roll for it!”-method, a player rolls 2d4 four times, then distributes the results among the four attributes.
-
-This will yield stats between 2 and 8, the roll has an average result of 5.
-
-#### Optional Rule: Class Attribute Modifiers
-
-After using one of the above methods for distributing attribute scores, players then add the class modifiers (see below) to those.
-
-| Playbook | Body | Senses | Charm | Mind |
-| -------- | ---- | ------ | ----- | ---- |
-| Hunter | none | none | none | none |
-| Demon | -1 | +1 | +1 | -1 |
-| Angel | +1 | -1 | -1 | +1 |
-| Vampire | +1 | +1 | -1 | -1 |
-| Werewolf | +1 | +1 | -1 | -1 |
-| Witch | -1 | -1 | +1 | +1 |
-
 ### Body
 
 Physical strength and endurance as well as dexterity and agility.
@@ -91,12 +60,15 @@ Affects:
 
 ## 2. Playbooks
 
-### Hunter
-### Demon
-### Angel
-### Vampire
-### Werewolf
-### Witch
+The playbook will determine some of your attributes, most of your abilities and will greatly influence your playstyle.
+
+For more information on the specific Playbooks, see the following links:
+- [Angel](playbooks/angel.md)
+- [Demon](playbooks/demon.md)
+- [Hunter](playbooks/hunter.md)
+- [Vampire](playbooks/vampire.md)
+- [Werewolf](playbooks/werewolf.md)
+- [Witch](playbooks/witch.md)
 
 ## 3. Player moves
 
@@ -104,21 +76,22 @@ When using a Move calls for a roll of dice, you roll 2d6 and add your relevant m
 
 ### General Moves
 
-#### Investigate
-#### Call a Contact
-#### Hit the Road
-#### Make a Scene
-#### Attack
-#### Conduct Ritual
+The following can be triggered by a character of any playbook:
+- Investigate (S/C/M)
+- Set a Trap (special)
+- Call a Contact (C)
+- Hit the Road (S)
+- Make a Scene (C)
+- Attack (B/S)
+- Conduct Ritual (M)
+
+For more information on General Moves, see [General Moves](moves/general-moves.md).
 
 ### Special Moves
 
-#### Hunter Moves
-#### Demon Moves
-#### Angel Moves
-#### Vampire Moves
-#### Werewolf Moves
-#### Witch Moves
+These moves can only be triggered by a character of the corresponding Playbook.
+
+For more information on Special Moves, see the relevant Playbook.
 
 ## 4. Character Development
 
@@ -128,7 +101,13 @@ When leveling up, characters gain the following:
 
 ## 5. Traits
 
+Traits are special abilities that provide passive bonuses or opportunities for your character, enhancing your General or Special Moves.
+
+One trait can be added during character creation (if the CM uses this optional rule), and others can be earned during the game.
+
 ## 6. Resources
+
+Compared to other values, resources are dynamic, their value can and should change during play.
 
 ### Advantage and Disadvantage
 
