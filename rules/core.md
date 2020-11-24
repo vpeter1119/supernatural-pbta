@@ -126,3 +126,18 @@ When leveling up, characters gain the following:
 
 <insert table here>
 
+## 5. Traits
+
+## 6. Resources
+
+### Advantage and Disadvantage
+
+Advantage can be earned from a good preparation, setting a trap or choosing the right music at the right time. When using Advantage, a player rolls 3d6 instead of 2d6 and keeps the highest 2 of the results.
+
+Disadvantage can be imposed by the MC, and mostly comes from bad preparation or adverse circumstances. When a player has Disadvantage, he roll 3d6 instead of 2d6 and keeps the lowest 2 of the results.
+
+As a general rule - even though Advantage tokens are counted -, any number of Advantages and Disadvantages in the same situation negate each other, regardless of the net sum. This means, that if a character has both Advantage and Disadvantage in a certain situation, the roll is unaffected and the player uses the default 2d6 roll.
+
+### Money
+### Contacts
+### Soul
