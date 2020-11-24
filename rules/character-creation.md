@@ -30,7 +30,7 @@ Alternatively, players can assign an array of 7, 5, 5 and 3 to the four attribut
 
 Lastly, if the MC and players agree to use an old-school method, they can roll for the four attributes, but beware, this can result in unusually high or low average of scores compared to the A and B methods.
 
-When using the “Roll for it!”-method, a player rolls 2d4 four times, then distributes the results among the four attributes.
+When using the "Roll for it!"-method, a player rolls 2d4 four times, then distributes the results among the four attributes.
 
 This will yield stats between 2 and 8, the roll has an average result of 5.
 

@@ -4,7 +4,8 @@
   "description": "Homebrew rules for Supernatural RPG, Powered by the Apocalypse.",
   "main": "README.md",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build-html": "node build-html.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,8 @@
   },
   "homepage": "https://github.com/vpeter1119/supernatural-pbta#readme",
   "devDependencies": {
+    "handlebars": "^4.7.6",
     "marked": "^1.2.5"
-  }
+  },
+  "dependencies": {}
 }
