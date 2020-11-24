@@ -1,6 +1,6 @@
 # Character Creation (Step by Step)
 
-Follow these steps to create a Supernatural character from scratch!
+These focused instructions show you how to create a Supernatural character from scratch. For a detailed description of the rules, see [Core Rules](core.md).
 
 ## 1. Choose Playbook
 

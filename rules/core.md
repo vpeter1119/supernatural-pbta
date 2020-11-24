@@ -1,5 +1,7 @@
 # Core Rules
 
+This is a detailed description of the game rules. For  instructions focused on creating a Supernatural character, see [Character Creation (Step by Step)](character-creation.md).
+
 ## 1. Attributes
 
 ### General Rules
@@ -91,7 +93,7 @@ For more information on General Moves, see [General Moves](moves/general-moves.m
 
 These moves can only be triggered by a character of the corresponding Playbook.
 
-For more information on Special Moves, see the relevant Playbook.
+For more information on Special Moves, see the [relevant Playbook](playbooks).
 
 ## 4. Character Development
 
