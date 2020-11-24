@@ -5,7 +5,8 @@
   "main": "README.md",
   "scripts": {
     "test": "jest",
-    "build-html": "node build-html.js"
+    "build-html": "node build-html.js",
+    "gulp": "gulp"
   },
   "repository": {
     "type": "git",
@@ -23,7 +24,7 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-markdown": "^5.1.0",
-    "handlebars": "^4.7.6",
+    "gulp-replace": "^1.0.0",
     "marked": "^1.2.5"
   },
   "dependencies": {}
