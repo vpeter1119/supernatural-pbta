@@ -1,0 +1,25 @@
+{
+  "name": "supernatural-pbta",
+  "version": "0.1.0",
+  "description": "Homebrew rules for Supernatural RPG, Powered by the Apocalypse.",
+  "main": "README.md",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpeter1119/supernatural-pbta.git"
+  },
+  "keywords": [
+    "rpg"
+  ],
+  "author": "Peter Vertesi <vpeter1119@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vpeter1119/supernatural-pbta/issues"
+  },
+  "homepage": "https://github.com/vpeter1119/supernatural-pbta#readme",
+  "devDependencies": {
+    "marked": "^1.2.5"
+  }
+}
